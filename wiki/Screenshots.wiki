@@ -1,6 +1,5 @@
-
-Cuberok v0.0.2 (Open Suse 10.3)
+Cuberok v0.0.2 (Open Suse 10.3, english interface)
 http://drmoriarty.0.googlepages.com/cuberok2.jpg
 
-Cuberok v.0.0.2 (Windows)
+Cuberok v.0.0.2 (Windows, russian interface)
 http://drmoriarty.0.googlepages.com/cuberok1.jpg
