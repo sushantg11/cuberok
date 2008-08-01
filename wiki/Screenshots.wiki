@@ -1,3 +1,4 @@
+#labels Featured
 Cuberok v0.0.2 (Open Suse 10.3, english interface)
 http://drmoriarty.0.googlepages.com/cuberok2.jpg
 
