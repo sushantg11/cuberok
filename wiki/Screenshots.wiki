@@ -1,6 +1,3 @@
-#summary One-sentence summary of this page.
-
-= Screenshots =
 
 Cuberok v0.0.2 (Open Suse 10.3)
 http://drmoriarty.0.googlepages.com/cuberok2.jpg
