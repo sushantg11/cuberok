@@ -1,4 +1,10 @@
 #labels Featured
+Cuberok v.0.0.5 (Ubuntu 8.10, english interface)
+http://drmoriarty.0.googlepages.com/cuberok7.png
+
+Cuberok v.0.0.5 (Windows XP, russian interface)
+http://drmoriarty.0.googlepages.com/cuberok6.jpg
+
 Cuberok v.0.0.4 (Windows XP, russian interface)
 http://drmoriarty.0.googlepages.com/cuberok4.jpg
 
