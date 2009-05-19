@@ -1,4 +1,14 @@
 #labels Featured
+*Version 0.0.10 (19.05.09)*
+	* Show system information in the about window
+	* First start wizard. It can import amarok database or create a collection
+	* Scrobbler for Libre.FM
+	* Import collection from Amarok 1.4 sqlite database.
+	* Collection settings: functions for rescan and cleanup collection.
+	* Information panel improvements. You can choose information you wanna see.
+	* Session management fixed
+	* Bugfixes
+
 *Version 0.0.9 (17.04.09)*
 	* Create browser for internet services, support Magnatune and Jamendo
 	* Bugfixes
