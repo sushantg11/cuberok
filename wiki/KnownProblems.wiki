@@ -1,4 +1,5 @@
 #summary Known problems and workarounds
+#labels Featured
 
 = Introduction =
 
@@ -23,7 +24,7 @@ Toolbar will not disapear anymore.
 Repeat these steps for floating menu window. Also, you can set "always on top" and "all desktops" properties.
 
 == Плавающие тулбары и меню ==
-Обычно палавающие тулбары и отрывные меню работают нормально.<br />
+Обычно плавающие тулбары и отрывные меню работают нормально.<br />
 <a target="_blank" href="http://f.imagehost.org/view/0665/cuberok_floating_menu"><img src="http://f.imagehost.org/t/0665/cuberok_floating_menu.jpg" border="0" width="150" height="125" alt="cuberok_floating_menu.png (115 KB)" /></a><br />
 На windows проблем не замечено, если в качестве DE установлен Gnome - проблем тоже нет. Но если у Вас KDE 3.5 (возможно и на KDE 4 тоже есть проблема), то при передаче фокуса другому окну плавающие тулбары и меню скроются. Они появятся снова на тех же местах, когда главное окно cuberok снова получит фокус. Такое поведение легко изменить:
  # Передвайте фокус плавающему тулбару
