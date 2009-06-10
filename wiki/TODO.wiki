@@ -21,3 +21,4 @@ What should to do.
   * Remake tabs [http://code.google.com/p/cuberok/issues/detail?id=37 Issue 37]
   * Make plugins for visualisation [http://code.google.com/p/cuberok/issues/detail?id=37 Issue 37]
   * Remake database schema [http://code.google.com/p/cuberok/issues/detail?id=41 Issue 41]
+  * Many Shuffle and Random modes [http://code.google.com/p/cuberok/issues/detail?id=49 Issue 49]
