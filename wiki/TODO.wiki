@@ -9,7 +9,7 @@ What should to do.
 == To 0.0.11 ==
 
   * CUE fixes: missing image, don't append image with cue [http://code.google.com/p/cuberok/issues/detail?id=22 Issue 22] [http://code.google.com/p/cuberok/issues/detail?id=43 Issue 43]
-  * Make bookmarks for often used folders [http://code.google.com/p/cuberok/issues/detail?id=31 Issue 31]
+  * Make bookmarks for often used folders [http://code.google.com/p/cuberok/issues/detail?id=31 Issue 31] *done*
   * Bug with localisation path [http://code.google.com/p/cuberok/issues/detail?id=32 Issue 32]
   * Various fixes for windows [http://code.google.com/p/cuberok/issues/detail?id=36 Issue 36]
 
