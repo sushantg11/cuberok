@@ -12,6 +12,7 @@ What should to do.
   * Make bookmarks for often used folders [http://code.google.com/p/cuberok/issues/detail?id=31 Issue 31] *done*
   * Bug with localisation path [http://code.google.com/p/cuberok/issues/detail?id=32 Issue 32]
   * Various fixes for windows [http://code.google.com/p/cuberok/issues/detail?id=36 Issue 36]
+  * Hotkeys
 
 == Other requests ==
 
