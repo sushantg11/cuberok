@@ -1,0 +1,36 @@
+#summary Known problems and workarounds
+#labels Featured
+
+= Introduction =
+
+Nothing is perfect. Cuberok has some issues that known as unfixable or WM/DE/OS-specific. Here is some workarounds for them.
+
+
+= Details =
+
+== Floating toolbars and menus ==
+Usually floating toolbars and menus works fine.<br />
+<a target="_blank" href="http://f.imagehost.org/view/0665/cuberok_floating_menu"><img src="http://f.imagehost.org/t/0665/cuberok_floating_menu.jpg" border="0" width="150" height="125" alt="cuberok_floating_menu.png (115 KB)" /></a><br />
+But there is a problem on kde 3.5 (may be, there is same problem on kde 4, I am not sure):
+when cuberok window lost focus, floating menus and toolbars disapear and apear again when focus returns to cuberok window. Workaround for kde5.3 is quite easy.
+ # Give a focus to floating toolbar
+ # press Alt+F3. This will show the kwin menu for toolbar window.
+ # select "advanced" -> "special window settings" and go to "workarounds" tab
+ # check "window type" checkbox, select "force" in toolbox and "normal window in next toolbox"
+ # push "Ok" button
+<a target="_blank" href="http://f.imagehost.org/view/0037/cuberok_floating_menu_properties"><img src="http://f.imagehost.org/t/0037/cuberok_floating_menu_properties.jpg" border="0" width="150" height="67" alt="cuberok_floating_menu_properties.png (38 KB)" /></a><br />
+Toolbar will not disapear anymore. 
+
+Repeat these steps for floating menu window. Also, you can set "always on top" and "all desktops" properties.
+
+== Плавающие тулбары и меню ==
+Обычно плавающие тулбары и отрывные меню работают нормально.<br />
+<a target="_blank" href="http://f.imagehost.org/view/0665/cuberok_floating_menu"><img src="http://f.imagehost.org/t/0665/cuberok_floating_menu.jpg" border="0" width="150" height="125" alt="cuberok_floating_menu.png (115 KB)" /></a><br />
+На windows проблем не замечено, если в качестве DE установлен Gnome - проблем тоже нет. Но если у Вас KDE 3.5 (возможно и на KDE 4 тоже есть проблема), то при передаче фокуса другому окну плавающие тулбары и меню скроются. Они появятся снова на тех же местах, когда главное окно cuberok снова получит фокус. Такое поведение легко изменить:
+ # Передвайте фокус плавающему тулбару
+ # нажмите Alt+F3 (это стандартное сочетание клавишь, вызывающее меню оконного менеджера для текущего окна)
+ # выберите в этом меню "дополнительно" -> "специальные параметры окна" и перейдите на кладку "разное"
+ # поставьте галочку "тип окна" и установите "принудительно" "обычное окно"
+ # теперь плавающее меню не будть исчезать
+<a target="_blank" href="http://f.imagehost.org/view/0642/cuberok_floating_menu_properties1"><img src="http://f.imagehost.org/t/0642/cuberok_floating_menu_properties1.jpg" border="0" width="150" height="104" alt="cuberok_floating_menu_properties1.png (44 KB)" /></a><br />
+Повторите те же действия для окна "отрывного" меню. Также можно установить параметры "Поверх всех окон" и "На все рабочие столы"
