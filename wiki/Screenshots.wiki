@@ -1,21 +1,2 @@
 #labels Featured
-Cuberok v.0.0.9 (Debian 5.0, russian interface)
-
-[http://drmoriarty.0.googlepages.com/cuberok11.png http://drmoriarty.0.googlepages.com/cuberok11s.jpg]
-
-Cuberok v.0.0.8 (Windows XP, russian interface)
-
-[http://drmoriarty.0.googlepages.com/cuberok10.jpg http://drmoriarty.0.googlepages.com/cuberok10s.jpg]
-
-
-Cuberok v.0.0.6 (Debian 5.0, russian interface)
-
-[http://drmoriarty.0.googlepages.com/cuberok8.png http://drmoriarty.0.googlepages.com/cuberok8s.png]
-
-Cuberok v.0.0.5 (Ubuntu 8.10, english interface)
-
-[http://drmoriarty.0.googlepages.com/cuberok7.png http://drmoriarty.0.googlepages.com/cuberok7s.png]
-
-Cuberok v.0.0.5 (Windows XP, russian interface)
-
-[http://drmoriarty.0.googlepages.com/cuberok6.jpg http://drmoriarty.0.googlepages.com/cuberok6s.jpg]
+Screenshotes are [https://sites.google.com/site/cuberok/screenshot here]
