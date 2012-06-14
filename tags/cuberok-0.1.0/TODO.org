@@ -1,0 +1,27 @@
+#+STARTUP: showall hidestars
+
+* TODO Milestone 1.0.0 [0%]
+
+* TODO Milestone 0.2.0 [0%]
+** TODO Mega playlist/Mega collection [0/4]
+*** TODO Extended tag list
+*** TODO Extended tag editor
+*** TODO Extended collection
+*** TODO Extended playlist
+** TODO WinAmp style playlist
+** TODO Documentation/online help
+** TODO More web sources
+
+
+* TODO Milestone 0.1.0 [100%]
+** DONE New about dialog
+*** DONE Translator tab
+** DONE Fix lyrics.org plugin
+   - Note taken on [2009-11-19 Чтв 22:14] \\
+     new dependency library - yajl
+** DONE Collection plugin
+** DONE Images for Info widget
+** DONE Rating for Info widget
+** DONE Make true shuffle
+** DONE D-Bus control
+
